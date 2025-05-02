@@ -121,15 +121,13 @@ We are an inclusive, supportive, and respectful community. By contributing, you 
 
 - GitHub Issues: Ask questions or suggest improvements
 - Discussions: For broader dialogue
-- Slack: [Request access](mailto:hello@goodhub-sea.org) to join our contributor workspace
-- Website: [goodhub-sea.org](https://goodhub-sea.org) *(coming soon)*
+- Slack: [Sign up as a official volunteer](https://sif853yuu0e.typeform.com/to/vFSt7Hfw) to join our contributor workspace
+- Website: [goodhub-sea.org](https://www.goodhubsea.com)
 
 ---
 
 ## 💛 Thank You
 
-Every issue you triage, feature you ship, bug you fix, or doc you write is a contribution to Southeast Asia’s future. We’re glad you’re here.
-
-> *“If you want to go fast, go alone. If you want to go far, go together.”* — African Proverb
+Every issue you triage, feature you ship, bug you fix, or doc you write is a contribution to Southeast Asia’s society. We’re glad you’re here.
 
 ---
