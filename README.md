@@ -111,12 +111,6 @@ Tag an issue if your PR addresses one. If unsure, ask in the GitHub discussion o
 
 ---
 
-## 🔒 Community Expectations
-
-We are an inclusive, supportive, and respectful community. By contributing, you agree to follow our [Code of Conduct](./CODE_OF_CONDUCT.md). No harassment, no discrimination—only collaboration.
-
----
-
 ## 📬 Connect With Us
 
 - GitHub Issues: Ask questions or suggest improvements
